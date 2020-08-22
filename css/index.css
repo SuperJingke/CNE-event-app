@@ -277,3 +277,26 @@ main{
     width: 500px;
     height: 300px;
 }
+
+/* player */
+.profile-pic {
+
+  width: 320px;
+  height: 300px;
+  border-radius: 100%;
+}
+
+article {
+  display: block;
+  
+  text-align: center;
+}
+.but3 {
+  width: 500px;
+}
+#myDIY {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: white;
+}
